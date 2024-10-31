@@ -5,5 +5,5 @@ Kelas
 Mata kuliah
 ##
 ### flowchart 
-![gambar1](screnshot/ft1.png)
-![gambar1](screnshot/ft2.png)
+![gambar1](screenshot/ft1.png)
+![gambar1](screenshot/ft2.png)
